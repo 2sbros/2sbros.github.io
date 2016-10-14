@@ -1,2 +1,2 @@
-# duckydisciple.github.io
+# 2sbros.github.io
 2S Bros website
